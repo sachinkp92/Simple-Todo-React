@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.todo-container {
+  list-style-type: none;
+  width: 80%;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}

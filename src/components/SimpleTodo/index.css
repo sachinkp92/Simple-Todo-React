@@ -1,0 +1,17 @@
+.list-container {
+  background-color: #fff;
+  padding: 20px;
+}
+
+.list-wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.delete-btn {
+  background-color: #000;
+  color: #fff;
+  padding: 16px;
+  border: none;
+  border-radius: 10px;
+}
